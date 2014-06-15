@@ -13,3 +13,4 @@ sitemap.xml.gz
 wp-config.php
 db_include.php
 dwsync.xml
+error_log
