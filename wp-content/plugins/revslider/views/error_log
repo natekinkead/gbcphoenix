@@ -1,0 +1,16 @@
+[13-Jan-2014 05:57:08 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/revslider/views/master_view.php on line 6
+[19-Jan-2014 02:12:41 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/revslider/views/slides.php on line 3
+[03-Apr-2014 04:59:00 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/revslider/views/slides.php on line 3
+[03-Apr-2014 16:21:29 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/revslider/views/slides.php on line 3
+[05-Apr-2014 04:34:20 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/revslider/views/master_view.php on line 6
+[05-Apr-2014 07:06:24 America/Denver] PHP Fatal error:  Class 'RevSlider' not found in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/revslider/views/sliders.php on line 2
+[09-Apr-2014 04:48:56 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/revslider/views/slides.php on line 3
+[09-Apr-2014 06:19:14 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/revslider/views/master_view.php on line 6
+[09-Apr-2014 09:41:46 America/Denver] PHP Fatal error:  Class 'RevSlider' not found in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/revslider/views/sliders.php on line 2
+[15-Apr-2014 10:08:30 America/Denver] PHP Fatal error:  Class 'RevSlider' not found in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/revslider/views/sliders.php on line 2
+[30-Apr-2014 20:15:41 America/Denver] PHP Fatal error:  Class 'UniteFunctionsRev' not found in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/revslider/views/slide.php on line 4
+[01-May-2014 06:20:32 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/revslider/views/slider.php on line 3
+[01-May-2014 17:58:56 America/Denver] PHP Fatal error:  Class 'UniteFunctionsRev' not found in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/revslider/views/slide.php on line 4
+[01-May-2014 18:31:10 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/revslider/views/slider.php on line 3
+[04-May-2014 18:09:35 America/Denver] PHP Fatal error:  Class 'UniteFunctionsRev' not found in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/revslider/views/slide.php on line 4
+[05-May-2014 16:49:31 America/Denver] PHP Fatal error:  Class 'UniteFunctionsRev' not found in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/revslider/views/slide.php on line 4

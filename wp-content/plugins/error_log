@@ -1,0 +1,5 @@
+[05-Nov-2013 01:09:06 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/hello.php on line 60
+[08-Dec-2013 04:31:39 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/hello.php on line 60
+[17-Dec-2013 19:52:50 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/hello.php on line 60
+[12-Jan-2014 10:04:53 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/hello.php on line 60
+[23-Mar-2014 23:53:27 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/hello.php on line 60

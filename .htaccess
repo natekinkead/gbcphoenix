@@ -1,0 +1,123 @@
+# BEGIN iThemes Security
+	# BEGIN Tweaks
+		# Rules to block access to WordPress specific files
+		<files .htaccess>
+			Order allow,deny
+			Deny from all
+		</files>
+		<files readme.html>
+			Order allow,deny
+			Deny from all
+		</files>
+		<files readme.txt>
+			Order allow,deny
+			Deny from all
+		</files>
+		<files install.php>
+			Order allow,deny
+			Deny from all
+		</files>
+		<files wp-config.php>
+			Order allow,deny
+			Deny from all
+		</files>
+		
+		# Rules to disable directory browsing
+		Options -Indexes
+		
+		<IfModule mod_rewrite.c>
+			RewriteEngine On
+		
+			# Rules to protect wp-includes
+			RewriteRule ^wp-admin/includes/ - [F]
+			RewriteRule !^wp-includes/ - [S=3]
+			RewriteCond %{SCRIPT_FILENAME} !^(.*)wp-includes/ms-files.php
+			RewriteRule ^wp-includes/[^/]+\.php$ - [F]
+			RewriteRule ^wp-includes/js/tinymce/langs/.+\.php - [F]
+			RewriteRule ^wp-includes/theme-compat/ - [F]
+		
+			# Rules to prevent php execution in uploads
+			RewriteRule ^(.*)/uploads/(.*).php(.?) - [F]
+		
+			# Rules to block unneeded HTTP methods
+			RewriteCond %{REQUEST_METHOD} ^(TRACE|DELETE|TRACK) [NC]
+			RewriteRule ^(.*)$ - [F]
+		
+			# Rules to block suspicious URIs
+			RewriteCond %{QUERY_STRING} \.\.\/ [NC,OR]
+			RewriteCond %{QUERY_STRING} ^.*\.(bash|git|hg|log|svn|swp|cvs) [NC,OR]
+			RewriteCond %{QUERY_STRING} etc/passwd [NC,OR]
+			RewriteCond %{QUERY_STRING} boot\.ini [NC,OR]
+			RewriteCond %{QUERY_STRING} ftp\:  [NC,OR]
+			RewriteCond %{QUERY_STRING} http\:  [NC,OR]
+			RewriteCond %{QUERY_STRING} https\:  [NC,OR]
+			RewriteCond %{QUERY_STRING} (\<|%3C).*script.*(\>|%3E) [NC,OR]
+			RewriteCond %{QUERY_STRING} mosConfig_[a-zA-Z_]{1,21}(=|%3D) [NC,OR]
+			RewriteCond %{QUERY_STRING} base64_encode.*\(.*\) [NC,OR]
+			RewriteCond %{QUERY_STRING} ^.*(\[|\]|\(|\)|<|>|ê|"|;|\?|\*|=$).* [NC,OR]
+			RewriteCond %{QUERY_STRING} ^.*(&#x22;|&#x27;|&#x3C;|&#x3E;|&#x5C;|&#x7B;|&#x7C;).* [NC,OR]
+			RewriteCond %{QUERY_STRING} ^.*(%24&x).* [NC,OR]
+			RewriteCond %{QUERY_STRING} ^.*(127\.0).* [NC,OR]
+			RewriteCond %{QUERY_STRING} ^.*(globals|encode|localhost|loopback).* [NC,OR]
+			RewriteCond %{QUERY_STRING} ^.*(request|concat|insert|union|declare).* [NC]
+			RewriteCond %{QUERY_STRING} !^loggedout=true
+			RewriteCond %{QUERY_STRING} !^action=rp
+			RewriteCond %{HTTP_COOKIE} !^.*wordpress_logged_in_.*$
+			RewriteCond %{HTTP_REFERER} !^http://maps\.googleapis\.com(.*)$
+			RewriteRule ^(.*)$ - [F]
+		
+			# Rules to block foreign characters in URLs
+			RewriteCond %{QUERY_STRING} ^.*(%0|%A|%B|%C|%D|%E|%F).* [NC]
+			RewriteRule ^(.*)$ - [F]
+		
+			# Rules to help reduce spam
+			RewriteCond %{REQUEST_METHOD} POST
+			RewriteCond %{REQUEST_URI} ^(.*)wp-comments-post\.php*
+			RewriteCond %{HTTP_REFERER} !^(.*)gracebiblechurchofphoenix.org.* 
+			RewriteCond %{HTTP_REFERER} !^http://jetpack\.wordpress\.com/jetpack-comment/ [OR]
+			RewriteCond %{HTTP_USER_AGENT} ^$
+			RewriteRule ^(.*)$ - [F]
+		</IfModule>
+	# END Tweaks
+# END iThemes Security
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+# END WordPress
+# Recursive redirects
+RedirectMatch 301 /contact/(.*) http://gracebiblechurchofphoenix.org/contact-us/
+RedirectMatch 301 /component/sermonspeaker/(.*) http://gracebiblechurchofphoenix.org/sermons/
+RedirectMatch 301 /ministries/adult-ministries(.*) http://gracebiblechurchofphoenix.org/ministries/
+RedirectMatch 301 /ministries/childrens-ministries(.*) http://gracebiblechurchofphoenix.org/ministries/
+RedirectMatch 301 /ministries/service-ministries(.*) http://gracebiblechurchofphoenix.org/ministries/
+RedirectMatch 301 ^/events-calendar/(.*)? http://gracebiblechurchofphoenix.org/ministries/?
+RedirectMatch 301 /resources/recorded-sermons(.*) http://gracebiblechurchofphoenix.org/sermons/
+RedirectMatch 301 /login(.*) http://gracebiblechurchofphoenix.org/
+RedirectMatch 301 /resources/website-links(.*) http://gracebiblechurchofphoenix.org/
+RedirectMatch 301 /component/user/(.*) http://gracebiblechurchofphoenix.org/
+RedirectMatch 301 /component/content/article/77(.*) http://gracebiblechurchofphoenix.org/
+RedirectMatch 301 /component/content/35.feed(.*) http://gracebiblechurchofphoenix.org/feed/
+# Single Page redirects
+Redirect 301 /about-us.html http://gracebiblechurchofphoenix.org/about-us/
+Redirect 301 /about-us/about-our-church.html http://gracebiblechurchofphoenix.org/about-us/
+Redirect 301 /about-us/our-doctrinal-statement.html http://gracebiblechurchofphoenix.org/about-us/
+Redirect 301 /about-us/our-full-doctrinal-statement.html http://gracebiblechurchofphoenix.org/about-us/
+Redirect 301 /contact.html http://gracebiblechurchofphoenix.org/contact-us/
+Redirect 301 /resources/documents.html http://gracebiblechurchofphoenix.org/documents/
+Redirect 301 /giving.html http://gracebiblechurchofphoenix.org/giving/
+Redirect 301 /home.html http://gracebiblechurchofphoenix.org/
+Redirect 301 /resources/documents.html http://gracebiblechurchofphoenix.org/documents/
+Redirect 301 /resources/documents.html http://gracebiblechurchofphoenix.org/documents/
+Redirect 301 /announcements/prayer-requests.html http://gracebiblechurchofphoenix.org/
+Redirect 301 /media-gallery.html http://gracebiblechurchofphoenix.org/
+Redirect 301 /resources/living-in-grace.html http://gracebiblechurchofphoenix.org/
+Redirect 301 /resources/website-links/64-associations/13-grace-gospel-fellowship.html http://gracebiblechurchofphoenix.org/
+Redirect 301 /sitemap.html http://gracebiblechurchofphoenix.org/
+Redirect 301 /map-and-directions http://gracebiblechurchofphoenix.org/map-directions/

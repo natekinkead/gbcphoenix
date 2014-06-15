@@ -1,0 +1,3 @@
+[24-May-2014 21:18:23 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/kinkeadw/public_html/gbcphoenix/wp-content/themes/twentyeleven/index.php on line 15
+[28-May-2014 17:17:01 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/kinkeadw/public_html/gbcphoenix/wp-content/themes/twentyeleven/tag.php on line 10
+[30-May-2014 17:37:36 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/kinkeadw/public_html/gbcphoenix/wp-content/themes/twentyeleven/404.php on line 10

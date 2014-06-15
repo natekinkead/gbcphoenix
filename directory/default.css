@@ -1,0 +1,242 @@
+body {
+	background-color:#FFFFFF; 
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+
+p.main { margin-left:15px; margin-top:5px; margin-right:12px; margin-bottom:0px;}
+p.mainb { margin-left:15px;}
+p.mainbot { margin-left:15px; margin-top:12px; margin-right:12px; margin-bottom:0px;text-align: center;}
+p.mainsplash { margin-left:250px; margin-right:250px;}
+p.crumb1 { margin-left:0px; margin-top:4px; margin-bottom:4px;}
+p.crumb2 { margin-left:0px; margin-top:4px; margin-bottom:4px;}
+.maintxt{ font-family:verdana,arial,palatino; color:#4e4e4e; font-size:10px; }
+.maintxtbold{ font-family:verdana,arial,palatino; color:#3f3f3f; font-size:10px; font-weight:bold; }
+.bluetxtbold{ font-family:verdana,arial,palatino; color:#003766; font-size:10px; font-weight:bold; }
+.bluetxtboldbig, h1 {font-family:verdana,arial,palatino; color:#003766; font-size:12px; font-weight:bold; } 
+.leadline { font-family:verdana,arial,palatino; font-size:10px; color:#8B836C; margin-top:25px; margin-bottom:10px; }
+.whitesplashtxt{ font-family:verdana,arial,palatino; color:#F2F0E9; font-size:10px; }
+.splashfooter{ font-family:verdana,arial,palatino; color:#9B9683; font-size:10px; }
+.factsheetfooter{ font-family:verdana,arial,palatino; color:#B0ACA4; font-size:10px; }
+.goldtxt{ font-family:verdana,arial,palatino; color:#827753; font-size:10px; font-weight:bold; }
+.yellowtxt{ font-family:verdana,arial,palatino; color:#B38B43; font-size:10px; font-weight:bold; }
+.imgbot1 { margin-bottom:12px;}
+.imgbot2 { margin-bottom:3px;}
+
+ul.part1 { 
+	padding-left: 1px;
+	margin-top:10px;
+	margin-right:10px;
+	margin-left:40px;
+	margin-bottom:10px;
+	/*list-style-type: $middot;*/
+}
+
+ul.part2 { 
+	padding-left: 1px;
+	margin-top:5px;
+	margin-right:10px;
+	margin-left:30px;
+	margin-bottom:10px;
+	/*list-style-type: $middot;*/
+}
+
+
+.divfoot {
+ margin-top : 5px;	
+}
+
+a, a:visited {
+	font-family:verdana,arial,palatino;
+	color:#735711;
+	font-size:10px;
+	line-height:17px;
+	text-decoration:underline;
+	padding:2px;
+}
+a:active, a:hover {
+	color:#000000;
+	background-color:#FFFF99;
+}
+
+a.anchorlink:link    { font-family:arial,palatino; color:#5582A8; font-size:11px; text-decoration:none; }
+a.anchorlink:visited { font-family:arial,palatino; color:#5582A8; font-size:11px; text-decoration:none; }
+a.anchorlink:active  { font-family:arial,palatino; color:#791C1B; font-size:11px; text-decoration:none; }
+a.anchorlink:hover   { font-family:arial,palatino; color:#791C1B; font-size:11px; text-decoration:none; }
+
+a.factsheetlink:link    { font-family:verdana,arial,palatino; color:#013766; font-size:10px; text-decoration:underline; }
+a.factsheetlink:visited { font-family:verdana,arial,palatino; color:#013766; font-size:10px; text-decoration:underline; }
+a.factsheetlink:active  { font-family:verdana,arial,palatino; color:#013766; font-size:10px; text-decoration:none; }
+a.factsheetlink:hover   { font-family:verdana,arial,palatino; color:#013766; font-size:10px; text-decoration:none; }
+
+a.spa-factsheet:link    { font-family:verdana,arial,palatino; color:#003766; font-size:10px; text-decoration:underline; }
+a.spa-factsheet:visited { font-family:verdana,arial,palatino; color:#003766; font-size:10px; text-decoration:underline; }
+a.spa-factsheet:active  { font-family:verdana,arial,palatino; color:#003766; font-size:10px; text-decoration:none; }
+a.spa-factsheet:hover   { font-family:verdana,arial,palatino; color:#003766; font-size:10px; text-decoration:none; }
+
+a.emp:link    { font-family:verdana,arial,palatino; color:#003766; text-decoration:none; }
+a.emp:visited { font-family:verdana,arial,palatino; color:#003766; text-decoration:none; }
+a.emp:active  { font-family:verdana,arial,palatino; color:#003766; text-decoration:underline; }
+a.emp:hover   { font-family:verdana,arial,palatino; color:#003766; text-decoration:underline; }
+
+a.cal:link    { font-family:verdana,arial,palatino; color:#003766; font-size:10px; text-decoration:underline; }
+a.cal:visited { font-family:verdana,arial,palatino; color:#003766; font-size:10px; text-decoration:underline; }
+a.cal:active  { font-family:verdana,arial,palatino; color:#003766; font-size:10px; text-decoration:none; }
+a.cal:hover   { font-family:verdana,arial,palatino; color:#003766; font-size:10px; text-decoration:none; }
+
+a.privacylink:link    { font-family:verdana,arial,palatino; color:#8CA6BD; font-size:10px; text-decoration:underline; }
+a.privacylink:visited { font-family:verdana,arial,palatino; color:#8CA6BD; font-size:10px; text-decoration:underline; }
+a.privacylink:active  { font-family:verdana,arial,palatino; color:#8CA6BD; font-size:10px; text-decoration:none; }
+a.privacylink:hover   { font-family:verdana,arial,palatino; color:#8CA6BD; font-size:10px; text-decoration:none; }
+
+a.whatsnew:link    { font-family:verdana,arial,palatino; color:#4e4e4e; font-size:10px; text-decoration:none;  }
+a.whatsnew:visited { font-family:verdana,arial,palatino; color:#4e4e4e; font-size:10px; text-decoration:none;  }
+a.whatsnew:active  { font-family:verdana,arial,palatino; color:#4e4e4e; font-size:10px; text-decoration:underline;  }
+a.whatsnew:hover   { font-family:verdana,arial,palatino; color:#4e4e4e; font-size:10px; text-decoration:underline;  }
+
+a.crumb:link    { font-family:verdana,arial,palatino; color:#8B836C; font-size:9px; text-decoration:none; }
+a.crumb:visited { font-family:verdana,arial,palatino; color:#8B836C; font-size:9px; text-decoration:none; }
+a.crumb:active  { font-family:verdana,arial,palatino; color:#F1EEE2; font-size:9px; text-decoration:none; }
+a.crumb:hover   { font-family:verdana,arial,palatino; color:#F1EEE2; font-size:9px; text-decoration:underline; }
+
+a.footersymbolic { font-family:verdana,arial,palatino;font-size:10px;text-decoration:none;color:#F1EEE2; }
+a.footersymbolic:visited { font-family:verdana,arial,palatino;font-size:10px;text-decoration:none;color:#F1EEE2; }
+a.footersymbolic:active  { font-family:verdana,arial,palatino;font-size:10px;text-decoration:none;color:#63562A; }
+a.footersymbolic:hover   { font-family:verdana,arial,palatino;font-size:10px;text-decoration:none;color:#63562A; }	
+
+.footertxt { font-family:verdana,arial,palatino; color:#8B836C; font-size:11px; }
+.footertxtc { font-family:verdana,arial,palatino; font-size:10px; color:#F1EEE2; }
+.footertxtd { font-family:verdana,arial,palatino; font-size:10px; color:#8B836C; }
+.footertxt-valid { font-family:verdana,arial,palatino; color:#B7B5B3; font-size:9px; }
+
+a.splashfooterlink:link    { font-family:verdana,arial,palatino; color:#9B9683; font-size:10px; text-decoration:underline; }
+a.splashfooterlink:visited { font-family:verdana,arial,palatino; color:#9B9683; font-size:10px; text-decoration:underline; }
+a.splashfooterlink:active  { font-family:verdana,arial,palatino; color:#ffffff; font-size:10px; text-decoration:underline; }
+a.splashfooterlink:hover   { font-family:verdana,arial,palatino; color:#ffffff; font-size:10px; text-decoration:underline; }
+
+a.splashlink:link    { font-family:verdana,arial,palatino; color:#F2F0E9; font-size:10px; text-decoration:underline; }
+a.splashlink:visited { font-family:verdana,arial,palatino; color:#F2F0E9; font-size:10px; text-decoration:underline; }
+a.splashlink:active  { font-family:verdana,arial,palatino; color:#F2F0E9; font-size:10px; text-decoration:none; }
+a.splashlink:hover   { font-family:verdana,arial,palatino; color:#F2F0E9; font-size:10px; text-decoration:none; }
+
+a.footerlink:link    { font-family:verdana,arial,palatino; color:#8B836C; font-size:10px; text-decoration:underline; }
+a.footerlink:visited { font-family:verdana,arial,palatino; color:#8B836C; font-size:10px; text-decoration:underline; }
+a.footerlink:active  { font-family:verdana,arial,palatino; color:#8B836C; font-size:10px; text-decoration:none; }
+a.footerlink:hover   { font-family:verdana,arial,palatino; color:#8B836C; font-size:10px; text-decoration:none; }
+
+a.footerlink-valid:link    { font-family:verdana,arial,palatino; color:#B7B5B3; font-size:9px; text-decoration:underline; }
+a.footerlink-valid:visited { font-family:verdana,arial,palatino; color:#B7B5B3; font-size:9px; text-decoration:underline; }
+a.footerlink-valid:active  { font-family:verdana,arial,palatino; color:#B7B5B3; font-size:9px; text-decoration:none; }
+a.footerlink-valid:hover   { font-family:verdana,arial,palatino; color:#B7B5B3; font-size:9px; text-decoration:none; }
+
+a.footer:link    { font-family:verdana,arial,palatino; color:#F1EEE2; font-size:11px; text-decoration:none; }
+a.footer:visited { font-family:verdana,arial,palatino; color:#F1EEE2; font-size:11px; text-decoration:none; }
+a.footer:active  { font-family:verdana,arial,palatino; color:#63562A; font-size:11px; text-decoration:none; }
+a.footer:hover   { font-family:verdana,arial,palatino; color:#63562A; font-size:11px; text-decoration:underline; }
+
+a.footerad:link    { font-family:verdana,arial,palatino; color:#8B836C; font-size:11px; text-decoration:none; }
+a.footerad:visited { font-family:verdana,arial,palatino; color:#8B836C; font-size:11px; text-decoration:none; }
+a.footerad:active  { font-family:verdana,arial,palatino; color:#F1EEE2; font-size:11px; text-decoration:none; }
+a.footerad:hover   { font-family:verdana,arial,palatino; color:#F1EEE2; font-size:11px; text-decoration:underline; }
+
+a.symbolic  {color:#867D62; font-family : Arial, Helvetica, sans-serif; font-size : 8pt; line-height : 10pt; text-decoration : none;}
+a.symbolic:visited {color:#867D62;font-family : verdana,Arial, Helvetica, sans-serif, serif; text-decoration : none;}
+a.symbolic:active {color:#74670A;font-family : verdana,Arial, Helvetica, sans-serif; text-decoration : none;}
+a.symbolic:hover {color:#74670A;font-family : verdana,Arial, Helvetica, sans-serif; text-decoration : none;}
+
+a.symbolicsplash  {color:#9C967B; font-family : verdana,Arial, Helvetica, sans-serif; font-size : 11px; text-decoration : none;}
+a.symbolicsplash:visited {color:#9C967B;font-family : verdana,Arial, Helvetica, sans-serif; font-size : 11px; text-decoration : none;}
+a.symbolicsplash:active {color:#4A697B;font-family : verdana,Arial, Helvetica, sans-serif; font-size : 11px; text-decoration : none;}
+a.symbolicsplash:hover {color:#4A697B;font-family : verdana,Arial, Helvetica, sans-serif; font-size : 11px; text-decoration : none;}
+
+a.mifooteremail	{ font-family: verdana,Arial, Helvetica, sans-serif;
+		font-size:8pt;
+		text-decoration:underline;
+		color:#867D62; }
+a.mifooteremail:visited { font-family: verdana,Arial, Helvetica, sans-serif;
+		font-size:8pt;
+		text-decoration:underline;
+		color:#867D62; }
+a.mifooteremail:active  { font-family: verdana,Arial, Helvetica, sans-serif;
+		font-size:8pt;
+		text-decoration:underline;
+		color:#74670A; }
+a.mifooteremail:hover   { font-family: verdana,Arial, Helvetica, sans-serif;
+		font-size:8pt;
+		text-decoration:underline;
+		color:#74670A; }
+
+a.underlineopposite:link    { text-decoration:none; }
+a.underlineopposite:visited { text-decoration:none; }
+a.underlineopposite:active  { text-decoration:underline; }
+a.underlineopposite:hover   { text-decoration:underline; }
+
+.mifooterb { font-family: verdana,Arial, Helvetica, sans-serif;
+	font-size:8pt;
+	color:#867D62;
+}
+
+.mifootad {margin-top:5px;}
+
+p.todopic {  margin-top:6px; margin-bottom:50px;}
+p.cal-pic {  margin-top:7px; margin-bottom:50px;}
+p.todotxtarea {margin-left:6px;  margin-top:5px; margin-bottom:6px;  margin-right:5px;}
+p.cal-txtarea {margin-left:6px;  margin-top:15px; margin-bottom:6px;  margin-right:5px;}
+
+.pic-area {
+	border-left: 1px solid #FFFFFF;
+	border-top: 1px solid #FFFFFF;
+	border-right: 1px solid #FFFFFF;
+	border-bottom: 1px solid #FFFFFF;
+}
+
+.todo-a {
+	border-left: 1px solid #CDBFAF;
+	border-top: 1px solid #CDBFAF;
+}
+
+.todo-b {
+	border-left: 1px solid #CDBFAF;
+	border-top: 1px solid #CDBFAF;
+	border-right: 1px solid #CDBFAF;
+}
+
+.todo-c {
+	border-left: 1px solid #CDBFAF;
+	border-top: 1px solid #CDBFAF;
+	border-bottom: 1px solid #CDBFAF;
+}
+
+.todo-d {
+	border-left: 1px solid #CDBFAF;
+	border-top: 1px solid #CDBFAF;
+	border-right: 1px solid #CDBFAF;
+	border-bottom: 1px solid #CDBFAF;
+}
+
+.cal-a {
+	border-left: 1px solid #CDBFAF;
+	border-bottom: 1px solid #CDBFAF;
+}
+
+.cal-b {
+	border-left: 1px solid #CDBFAF;
+	border-bottom: 1px solid #CDBFAF;
+	border-right: 1px solid #CDBFAF;
+}
+
+.cal-c {
+	border-bottom: 1px solid #CDBFAF;
+}
+
+.b {
+  	border:1px solid #CFC6B7;
+  	font-family:verdana,arial,palatino;
+	color:#4e4e4e;
+	font-size:10px;
+	background:#FFFFFF;
+
+}

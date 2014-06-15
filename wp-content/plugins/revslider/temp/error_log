@@ -1,0 +1,1 @@
+[09-Jan-2014 01:52:44 America/Denver] PHP Fatal error:  Cannot access self:: when no class scope is active in /home2/kinkeadw/public_html/gbcphoenix/wp-content/plugins/revslider/temp/examples.php on line 4

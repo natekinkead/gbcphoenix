@@ -1,0 +1,229 @@
+[02-May-2014 21:35:37 America/Denver] PHP Notice:  Undefined variable: mrsdata in /home2/kinkeadw/public_html/gbcphoenix/directory/viewdirectory.php on line 19
+[02-May-2014 21:35:37 America/Denver] PHP Notice:  Undefined variable: config_css in /home2/kinkeadw/public_html/gbcphoenix/directory/viewdirectory.php on line 22
+[02-May-2014 21:35:37 America/Denver] PHP Notice:  Undefined variable: config_title in /home2/kinkeadw/public_html/gbcphoenix/directory/menu.php on line 4
+[02-May-2014 21:35:37 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/viewdirectory.php on line 116
+[02-May-2014 21:35:37 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/viewdirectory.php on line 116
+[02-May-2014 21:35:37 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/viewdirectory.php on line 117
+[02-May-2014 21:35:48 America/Denver] PHP Notice:  Undefined variable: config_title in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 31
+[02-May-2014 21:35:48 America/Denver] PHP Notice:  Undefined variable: config_css in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 32
+[02-May-2014 21:35:48 America/Denver] PHP Notice:  Undefined variable: config_title in /home2/kinkeadw/public_html/gbcphoenix/directory/menu.php on line 4
+[02-May-2014 21:35:48 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 21:35:49 America/Denver] PHP Notice:  Undefined variable: config_css in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 15
+[02-May-2014 21:35:49 America/Denver] PHP Notice:  Undefined variable: config_list_label in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 79
+[02-May-2014 21:35:49 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 91
+[02-May-2014 21:35:49 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 93
+[02-May-2014 21:35:49 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 93
+[02-May-2014 21:35:49 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 94
+[02-May-2014 21:35:49 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 90
+[02-May-2014 21:35:49 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 90
+[02-May-2014 21:35:49 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 91
+[02-May-2014 21:35:49 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 103
+[02-May-2014 21:35:49 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 103
+[02-May-2014 21:35:49 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 105
+[02-May-2014 21:35:49 America/Denver] PHP Notice:  Undefined variable: config_htmleditor in /home2/kinkeadw/public_html/gbcphoenix/directory/edithead.php on line 1
+[02-May-2014 21:35:49 America/Denver] PHP Notice:  Undefined variable: config_css in /home2/kinkeadw/public_html/gbcphoenix/directory/edithead.php on line 22
+[02-May-2014 21:35:49 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 75
+[02-May-2014 21:35:49 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 75
+[02-May-2014 21:35:49 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 76
+[02-May-2014 21:35:49 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 117
+[02-May-2014 21:35:49 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 117
+[02-May-2014 21:35:49 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 118
+[02-May-2014 21:35:49 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 126
+[02-May-2014 21:35:49 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 126
+[02-May-2014 21:35:49 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 127
+[02-May-2014 21:35:49 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 135
+[02-May-2014 21:35:49 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 135
+[02-May-2014 21:35:49 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 136
+[02-May-2014 21:35:49 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 144
+[02-May-2014 21:35:49 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 144
+[02-May-2014 21:35:49 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 145
+[02-May-2014 21:36:20 America/Denver] PHP Notice:  Undefined variable: config_title in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 31
+[02-May-2014 21:36:20 America/Denver] PHP Notice:  Undefined variable: config_css in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 32
+[02-May-2014 21:36:20 America/Denver] PHP Notice:  Undefined variable: config_title in /home2/kinkeadw/public_html/gbcphoenix/directory/menu.php on line 4
+[02-May-2014 21:36:20 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 21:36:20 America/Denver] PHP Notice:  Undefined variable: config_css in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 15
+[02-May-2014 21:36:20 America/Denver] PHP Notice:  Undefined variable: config_list_label in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 79
+[02-May-2014 21:36:20 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 91
+[02-May-2014 21:36:20 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 93
+[02-May-2014 21:36:20 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 93
+[02-May-2014 21:36:20 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 94
+[02-May-2014 21:36:20 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 90
+[02-May-2014 21:36:20 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 90
+[02-May-2014 21:36:20 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 91
+[02-May-2014 21:36:20 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 103
+[02-May-2014 21:36:20 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 103
+[02-May-2014 21:36:20 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 105
+[02-May-2014 21:36:20 America/Denver] PHP Notice:  Undefined variable: config_htmleditor in /home2/kinkeadw/public_html/gbcphoenix/directory/edithead.php on line 1
+[02-May-2014 21:36:20 America/Denver] PHP Notice:  Undefined variable: config_css in /home2/kinkeadw/public_html/gbcphoenix/directory/edithead.php on line 22
+[02-May-2014 21:36:20 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 75
+[02-May-2014 21:36:20 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 75
+[02-May-2014 21:36:20 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 76
+[02-May-2014 21:36:20 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 117
+[02-May-2014 21:36:20 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 117
+[02-May-2014 21:36:20 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 118
+[02-May-2014 21:36:20 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 126
+[02-May-2014 21:36:20 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 126
+[02-May-2014 21:36:20 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 127
+[02-May-2014 21:36:20 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 135
+[02-May-2014 21:36:20 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 135
+[02-May-2014 21:36:20 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 136
+[02-May-2014 21:36:20 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 144
+[02-May-2014 21:36:20 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 144
+[02-May-2014 21:36:20 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 145
+[02-May-2014 21:38:00 America/Denver] PHP Notice:  Undefined variable: config_title in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 31
+[02-May-2014 21:38:00 America/Denver] PHP Notice:  Undefined variable: config_css in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 32
+[02-May-2014 21:38:00 America/Denver] PHP Notice:  Undefined variable: config_title in /home2/kinkeadw/public_html/gbcphoenix/directory/menu.php on line 4
+[02-May-2014 21:38:00 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 21:38:01 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 90
+[02-May-2014 21:38:01 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 90
+[02-May-2014 21:38:01 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 91
+[02-May-2014 21:38:01 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 103
+[02-May-2014 21:38:01 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 103
+[02-May-2014 21:38:01 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 105
+[02-May-2014 21:38:01 America/Denver] PHP Notice:  Undefined variable: config_htmleditor in /home2/kinkeadw/public_html/gbcphoenix/directory/edithead.php on line 1
+[02-May-2014 21:38:01 America/Denver] PHP Notice:  Undefined variable: config_css in /home2/kinkeadw/public_html/gbcphoenix/directory/edithead.php on line 22
+[02-May-2014 21:38:01 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 75
+[02-May-2014 21:38:01 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 75
+[02-May-2014 21:38:01 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 76
+[02-May-2014 21:38:01 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 117
+[02-May-2014 21:38:01 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 117
+[02-May-2014 21:38:01 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 118
+[02-May-2014 21:38:01 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 126
+[02-May-2014 21:38:01 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 126
+[02-May-2014 21:38:01 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 127
+[02-May-2014 21:38:01 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 135
+[02-May-2014 21:38:01 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 135
+[02-May-2014 21:38:01 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 136
+[02-May-2014 21:38:01 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 144
+[02-May-2014 21:38:01 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 144
+[02-May-2014 21:38:01 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 145
+[02-May-2014 21:38:01 America/Denver] PHP Notice:  Undefined variable: config_css in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 15
+[02-May-2014 21:38:01 America/Denver] PHP Notice:  Undefined variable: config_list_label in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 79
+[02-May-2014 21:38:01 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 91
+[02-May-2014 21:38:01 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 93
+[02-May-2014 21:38:01 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 93
+[02-May-2014 21:38:01 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 94
+[02-May-2014 21:42:07 America/Denver] PHP Notice:  Undefined variable: config_title in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 31
+[02-May-2014 21:42:07 America/Denver] PHP Notice:  Undefined variable: config_css in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 32
+[02-May-2014 21:42:07 America/Denver] PHP Notice:  Undefined variable: config_title in /home2/kinkeadw/public_html/gbcphoenix/directory/menu.php on line 4
+[02-May-2014 21:42:07 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 21:42:08 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 90
+[02-May-2014 21:42:08 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 90
+[02-May-2014 21:42:08 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 91
+[02-May-2014 21:42:08 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 103
+[02-May-2014 21:42:08 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 103
+[02-May-2014 21:42:08 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 105
+[02-May-2014 21:42:08 America/Denver] PHP Notice:  Undefined variable: config_htmleditor in /home2/kinkeadw/public_html/gbcphoenix/directory/edithead.php on line 1
+[02-May-2014 21:42:08 America/Denver] PHP Notice:  Undefined variable: config_css in /home2/kinkeadw/public_html/gbcphoenix/directory/edithead.php on line 22
+[02-May-2014 21:42:08 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 75
+[02-May-2014 21:42:08 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 75
+[02-May-2014 21:42:08 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 76
+[02-May-2014 21:42:08 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 117
+[02-May-2014 21:42:08 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 117
+[02-May-2014 21:42:08 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 118
+[02-May-2014 21:42:08 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 126
+[02-May-2014 21:42:08 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 126
+[02-May-2014 21:42:08 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 127
+[02-May-2014 21:42:08 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 135
+[02-May-2014 21:42:08 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 135
+[02-May-2014 21:42:08 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 136
+[02-May-2014 21:42:08 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 144
+[02-May-2014 21:42:08 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 144
+[02-May-2014 21:42:08 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/edit_people.php on line 145
+[02-May-2014 21:42:08 America/Denver] PHP Notice:  Undefined variable: config_css in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 15
+[02-May-2014 21:42:08 America/Denver] PHP Notice:  Undefined variable: config_list_label in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 79
+[02-May-2014 21:42:08 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 91
+[02-May-2014 21:42:08 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 93
+[02-May-2014 21:42:08 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 93
+[02-May-2014 21:42:08 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 94
+[02-May-2014 21:46:33 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/kinkeadw/public_html/gbcphoenix/directory/config.php on line 30
+[02-May-2014 21:47:08 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/kinkeadw/public_html/gbcphoenix/directory/config.php on line 30
+[02-May-2014 21:47:15 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/kinkeadw/public_html/gbcphoenix/directory/config.php on line 30
+[02-May-2014 21:47:22 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/kinkeadw/public_html/gbcphoenix/directory/config.php on line 30
+[02-May-2014 21:48:01 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 21:48:01 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/list.php on line 91
+[02-May-2014 21:48:01 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 91
+[02-May-2014 21:49:18 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 21:49:18 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 91
+[02-May-2014 21:49:33 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 91
+[02-May-2014 21:50:01 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 21:50:02 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 91
+[02-May-2014 21:55:59 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 21:55:59 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 93
+[02-May-2014 21:56:15 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 21:56:15 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 93
+[02-May-2014 21:56:42 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 21:56:42 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 93
+[02-May-2014 21:56:55 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 21:56:55 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 93
+[02-May-2014 21:57:46 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 21:58:41 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 21:58:41 America/Denver] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 2
+[02-May-2014 21:58:51 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 21:58:51 America/Denver] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 2
+[02-May-2014 21:58:53 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 21:58:53 America/Denver] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 2
+[02-May-2014 21:58:58 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 21:58:58 America/Denver] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 2
+[02-May-2014 21:59:00 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 21:59:01 America/Denver] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 2
+[02-May-2014 21:59:35 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 22:00:44 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 22:00:44 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 93
+[02-May-2014 22:01:55 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 22:01:56 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 94
+[02-May-2014 22:01:58 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 22:01:59 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 94
+[02-May-2014 22:02:02 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 22:02:02 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 94
+[02-May-2014 22:03:45 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 22:03:46 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 94
+[02-May-2014 22:04:28 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 22:04:28 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 94
+[02-May-2014 22:04:46 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 22:04:46 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home2/kinkeadw/public_html/gbcphoenix/directory/editfunctions_people.php on line 94
+[02-May-2014 22:06:00 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 22:06:44 America/Denver] PHP Notice:  Undefined variable: mrsdata in /home2/kinkeadw/public_html/gbcphoenix/directory/ministriesview.php on line 41
+[02-May-2014 22:07:35 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 22:09:56 America/Denver] PHP Notice:  Undefined variable: userdata in /home2/kinkeadw/public_html/gbcphoenix/directory/admin.php on line 41
+[02-May-2014 22:10:17 America/Denver] PHP Notice:  Undefined variable: mrsdata in /home2/kinkeadw/public_html/gbcphoenix/directory/viewdirectory.php on line 19
+[02-May-2014 22:10:29 America/Denver] PHP Notice:  Undefined variable: mrsdata in /home2/kinkeadw/public_html/gbcphoenix/directory/ministriesview.php on line 41
+[02-May-2014 22:15:03 America/Denver] PHP Notice:  Undefined variable: mrsdata in /home2/kinkeadw/public_html/gbcphoenix/directory/ministriesview.php on line 41
+[02-May-2014 22:17:55 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/ministriesview.php on line 5
+[02-May-2014 22:17:55 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/ministriesview.php on line 5
+[02-May-2014 22:17:55 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/ministriesview.php on line 7
+[02-May-2014 22:17:55 America/Denver] PHP Notice:  Undefined variable: mrsdata in /home2/kinkeadw/public_html/gbcphoenix/directory/ministriesview.php on line 41
+[02-May-2014 22:17:55 America/Denver] PHP Notice:  Undefined variable: config_css in /home2/kinkeadw/public_html/gbcphoenix/directory/ministriesview.php on line 44
+[02-May-2014 22:17:55 America/Denver] PHP Notice:  Undefined variable: config_title in /home2/kinkeadw/public_html/gbcphoenix/directory/menu.php on line 4
+[02-May-2014 22:17:55 America/Denver] PHP Notice:  Undefined variable: config_url in /home2/kinkeadw/public_html/gbcphoenix/directory/menu.php on line 10
+[02-May-2014 22:17:55 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 3
+[02-May-2014 22:17:55 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 3
+[02-May-2014 22:17:55 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 4
+[02-May-2014 22:17:55 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 3
+[02-May-2014 22:17:55 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 3
+[02-May-2014 22:17:55 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 4
+[02-May-2014 22:17:55 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 3
+[02-May-2014 22:17:55 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 3
+[02-May-2014 22:17:55 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 4
+[02-May-2014 22:17:55 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 3
+[02-May-2014 22:17:55 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 3
+[02-May-2014 22:17:55 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 4
+[02-May-2014 22:17:59 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/ministriesview.php on line 5
+[02-May-2014 22:17:59 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/ministriesview.php on line 5
+[02-May-2014 22:17:59 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/ministriesview.php on line 7
+[02-May-2014 22:17:59 America/Denver] PHP Notice:  Undefined variable: mrsdata in /home2/kinkeadw/public_html/gbcphoenix/directory/ministriesview.php on line 41
+[02-May-2014 22:17:59 America/Denver] PHP Notice:  Undefined variable: config_css in /home2/kinkeadw/public_html/gbcphoenix/directory/ministriesview.php on line 44
+[02-May-2014 22:17:59 America/Denver] PHP Notice:  Undefined variable: config_title in /home2/kinkeadw/public_html/gbcphoenix/directory/menu.php on line 4
+[02-May-2014 22:17:59 America/Denver] PHP Notice:  Undefined variable: config_url in /home2/kinkeadw/public_html/gbcphoenix/directory/menu.php on line 10
+[02-May-2014 22:17:59 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 3
+[02-May-2014 22:17:59 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 3
+[02-May-2014 22:17:59 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 4
+[02-May-2014 22:17:59 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 3
+[02-May-2014 22:17:59 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 3
+[02-May-2014 22:17:59 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 4
+[02-May-2014 22:17:59 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 3
+[02-May-2014 22:17:59 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 3
+[02-May-2014 22:17:59 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 4
+[02-May-2014 22:17:59 America/Denver] PHP Notice:  Undefined variable: conn in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 3
+[02-May-2014 22:17:59 America/Denver] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 3
+[02-May-2014 22:17:59 America/Denver] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home2/kinkeadw/public_html/gbcphoenix/directory/include_ministries_graph_view.php on line 4
